@@ -81,7 +81,7 @@
     <main>
         <p>Explore stunning landscapes and breathtaking moments captured just for you.</p>
         <div class="content">
-            <img src="image1.jpg" alt="Beautiful Scenery">
+            <img src="1708601564787.jpg" alt="Beautiful Scenery">
             <img src="image2.jpg" alt="Mountain View">
             <img src="image3.jpg" alt="Sunset by the Beach">
         </div>
